@@ -6,7 +6,6 @@
 #define RPATCHERDAEMON_RPATCHER_H
 
 #include "INCLUDE/Log.h"
-#include "INCLUDE/socket.h"
 #include "INCLUDE/MemoryPatch.h"
 
 
