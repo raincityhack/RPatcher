@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RPatcher</string>
+    <string name="global_version">Global version</string>
+    <string name="vietnam_version">Vietnam version</string>
+    <string name="korea_version">Korea version</string>
+    <string name="pubgm_version">PUBGM version</string>
+    <string name="stop_cheat">Stop Cheat</string>
+    <string name="start_cheat">Start Cheat</string>
+    <string name="instant_hit">Instant Hit</string>
+    <string name="less_recoil">Less Recoil</string>
+    <string name="anti_shake">Anti Shake</string>
+    <string name="fast_parachute">Fast Parachute</string>
+    <string name="fast_shoot_interval">Fast Shoot Interval</string>
+    <string name="show_aimbot_fov">Show Aimbot FOV</string>
+    <string name="aimbot">Aimbot</string>
+    <string name="small_crosshair">Small Crosshair</string>
+    <string name="aimbot_100m">AimBot 100M</string>
+    <string name="character_view">Character View</string>
+</resources>
